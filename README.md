@@ -1,6 +1,6 @@
 # Real time face filter 
 
-This project realizes a very basic face filter, similar to the snapchat/instagram filters out there (but much more basic). Per default, your face is replaced by hide-the-pain-harold's face. Custom images can be added of course. See the stunning result above:
+This project realizes a very basic face filter, similar to the snapchat/instagram filters out there (but much more basic). Per default, your face is replaced by hide-the-pain-harold's face. Custom images can be added of course. See the stunning result below:
 
 <img src="example.jpg" width="200"/>
 
